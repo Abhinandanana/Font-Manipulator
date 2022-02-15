@@ -1,0 +1,27 @@
+body{
+    background-color: hotpink;
+    color: green;
+}
+#app_name{
+    background-color: yellow;
+    box-shadow: 5px 5px 5px teal;
+
+}
+#to_do{
+    background-color: yellow;
+    box-shadow: 5px 5px 5px teal;
+}
+#instruct{
+    background-color: yellow;
+}
+#current_font_size{
+    background-color: yellow;
+}
+#copy_right{
+    font-size: 25px;
+    background-color: yellow;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
